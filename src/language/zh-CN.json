@@ -1,0 +1,22 @@
+{
+    "login":{
+        "title":"登录"
+    },
+    "dashboard":{
+        "title":"仪表盘",
+        "workplace":"工作台"
+    },
+    "example":{
+        "title":"实例",
+        "palette":"调色板",
+        "carousel":"轮播图",
+        "table":"表格",
+				"component":"表格组件",
+				"map":"地图",
+				"mapLocation":"地图选点"
+    },
+    "global":{
+        "success":"成功",
+        "error":"错误"   
+    }
+}
